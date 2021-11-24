@@ -1,0 +1,16 @@
+D:\Programmeerimise algkursus (RKE132)\StringsAndArrays\FirstOrLast\bin\Debug\net5.0\FirstOrLast.exe
+D:\Programmeerimise algkursus (RKE132)\StringsAndArrays\FirstOrLast\bin\Debug\net5.0\FirstOrLast.deps.json
+D:\Programmeerimise algkursus (RKE132)\StringsAndArrays\FirstOrLast\bin\Debug\net5.0\FirstOrLast.runtimeconfig.json
+D:\Programmeerimise algkursus (RKE132)\StringsAndArrays\FirstOrLast\bin\Debug\net5.0\FirstOrLast.runtimeconfig.dev.json
+D:\Programmeerimise algkursus (RKE132)\StringsAndArrays\FirstOrLast\bin\Debug\net5.0\FirstOrLast.dll
+D:\Programmeerimise algkursus (RKE132)\StringsAndArrays\FirstOrLast\bin\Debug\net5.0\ref\FirstOrLast.dll
+D:\Programmeerimise algkursus (RKE132)\StringsAndArrays\FirstOrLast\bin\Debug\net5.0\FirstOrLast.pdb
+D:\Programmeerimise algkursus (RKE132)\StringsAndArrays\FirstOrLast\obj\Debug\net5.0\FirstOrLast.csproj.AssemblyReference.cache
+D:\Programmeerimise algkursus (RKE132)\StringsAndArrays\FirstOrLast\obj\Debug\net5.0\FirstOrLast.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programmeerimise algkursus (RKE132)\StringsAndArrays\FirstOrLast\obj\Debug\net5.0\FirstOrLast.AssemblyInfoInputs.cache
+D:\Programmeerimise algkursus (RKE132)\StringsAndArrays\FirstOrLast\obj\Debug\net5.0\FirstOrLast.AssemblyInfo.cs
+D:\Programmeerimise algkursus (RKE132)\StringsAndArrays\FirstOrLast\obj\Debug\net5.0\FirstOrLast.csproj.CoreCompileInputs.cache
+D:\Programmeerimise algkursus (RKE132)\StringsAndArrays\FirstOrLast\obj\Debug\net5.0\FirstOrLast.dll
+D:\Programmeerimise algkursus (RKE132)\StringsAndArrays\FirstOrLast\obj\Debug\net5.0\ref\FirstOrLast.dll
+D:\Programmeerimise algkursus (RKE132)\StringsAndArrays\FirstOrLast\obj\Debug\net5.0\FirstOrLast.pdb
+D:\Programmeerimise algkursus (RKE132)\StringsAndArrays\FirstOrLast\obj\Debug\net5.0\FirstOrLast.genruntimeconfig.cache

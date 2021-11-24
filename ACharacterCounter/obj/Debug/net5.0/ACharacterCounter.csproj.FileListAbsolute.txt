@@ -1,0 +1,16 @@
+D:\Programmeerimise algkursus (RKE132)\StringsAndArrays\ACharacterCounter\bin\Debug\net5.0\ACharacterCounter.exe
+D:\Programmeerimise algkursus (RKE132)\StringsAndArrays\ACharacterCounter\bin\Debug\net5.0\ACharacterCounter.deps.json
+D:\Programmeerimise algkursus (RKE132)\StringsAndArrays\ACharacterCounter\bin\Debug\net5.0\ACharacterCounter.runtimeconfig.json
+D:\Programmeerimise algkursus (RKE132)\StringsAndArrays\ACharacterCounter\bin\Debug\net5.0\ACharacterCounter.runtimeconfig.dev.json
+D:\Programmeerimise algkursus (RKE132)\StringsAndArrays\ACharacterCounter\bin\Debug\net5.0\ACharacterCounter.dll
+D:\Programmeerimise algkursus (RKE132)\StringsAndArrays\ACharacterCounter\bin\Debug\net5.0\ref\ACharacterCounter.dll
+D:\Programmeerimise algkursus (RKE132)\StringsAndArrays\ACharacterCounter\bin\Debug\net5.0\ACharacterCounter.pdb
+D:\Programmeerimise algkursus (RKE132)\StringsAndArrays\ACharacterCounter\obj\Debug\net5.0\ACharacterCounter.csproj.AssemblyReference.cache
+D:\Programmeerimise algkursus (RKE132)\StringsAndArrays\ACharacterCounter\obj\Debug\net5.0\ACharacterCounter.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programmeerimise algkursus (RKE132)\StringsAndArrays\ACharacterCounter\obj\Debug\net5.0\ACharacterCounter.AssemblyInfoInputs.cache
+D:\Programmeerimise algkursus (RKE132)\StringsAndArrays\ACharacterCounter\obj\Debug\net5.0\ACharacterCounter.AssemblyInfo.cs
+D:\Programmeerimise algkursus (RKE132)\StringsAndArrays\ACharacterCounter\obj\Debug\net5.0\ACharacterCounter.csproj.CoreCompileInputs.cache
+D:\Programmeerimise algkursus (RKE132)\StringsAndArrays\ACharacterCounter\obj\Debug\net5.0\ACharacterCounter.dll
+D:\Programmeerimise algkursus (RKE132)\StringsAndArrays\ACharacterCounter\obj\Debug\net5.0\ref\ACharacterCounter.dll
+D:\Programmeerimise algkursus (RKE132)\StringsAndArrays\ACharacterCounter\obj\Debug\net5.0\ACharacterCounter.pdb
+D:\Programmeerimise algkursus (RKE132)\StringsAndArrays\ACharacterCounter\obj\Debug\net5.0\ACharacterCounter.genruntimeconfig.cache

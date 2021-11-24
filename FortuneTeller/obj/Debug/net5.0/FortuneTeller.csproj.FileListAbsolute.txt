@@ -1,0 +1,15 @@
+D:\Programmeerimise algkursus (RKE132)\StringsAndArrays\FortuneTeller\bin\Debug\net5.0\FortuneTeller.exe
+D:\Programmeerimise algkursus (RKE132)\StringsAndArrays\FortuneTeller\bin\Debug\net5.0\FortuneTeller.deps.json
+D:\Programmeerimise algkursus (RKE132)\StringsAndArrays\FortuneTeller\bin\Debug\net5.0\FortuneTeller.runtimeconfig.json
+D:\Programmeerimise algkursus (RKE132)\StringsAndArrays\FortuneTeller\bin\Debug\net5.0\FortuneTeller.runtimeconfig.dev.json
+D:\Programmeerimise algkursus (RKE132)\StringsAndArrays\FortuneTeller\bin\Debug\net5.0\FortuneTeller.dll
+D:\Programmeerimise algkursus (RKE132)\StringsAndArrays\FortuneTeller\bin\Debug\net5.0\ref\FortuneTeller.dll
+D:\Programmeerimise algkursus (RKE132)\StringsAndArrays\FortuneTeller\bin\Debug\net5.0\FortuneTeller.pdb
+D:\Programmeerimise algkursus (RKE132)\StringsAndArrays\FortuneTeller\obj\Debug\net5.0\FortuneTeller.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programmeerimise algkursus (RKE132)\StringsAndArrays\FortuneTeller\obj\Debug\net5.0\FortuneTeller.AssemblyInfoInputs.cache
+D:\Programmeerimise algkursus (RKE132)\StringsAndArrays\FortuneTeller\obj\Debug\net5.0\FortuneTeller.AssemblyInfo.cs
+D:\Programmeerimise algkursus (RKE132)\StringsAndArrays\FortuneTeller\obj\Debug\net5.0\FortuneTeller.csproj.CoreCompileInputs.cache
+D:\Programmeerimise algkursus (RKE132)\StringsAndArrays\FortuneTeller\obj\Debug\net5.0\FortuneTeller.dll
+D:\Programmeerimise algkursus (RKE132)\StringsAndArrays\FortuneTeller\obj\Debug\net5.0\ref\FortuneTeller.dll
+D:\Programmeerimise algkursus (RKE132)\StringsAndArrays\FortuneTeller\obj\Debug\net5.0\FortuneTeller.pdb
+D:\Programmeerimise algkursus (RKE132)\StringsAndArrays\FortuneTeller\obj\Debug\net5.0\FortuneTeller.genruntimeconfig.cache

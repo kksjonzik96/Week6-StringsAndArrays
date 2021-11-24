@@ -1,0 +1,16 @@
+D:\Programmeerimise algkursus (RKE132)\StringsAndArrays\StringsAndArrays\bin\Debug\net5.0\StringsAndArrays.exe
+D:\Programmeerimise algkursus (RKE132)\StringsAndArrays\StringsAndArrays\bin\Debug\net5.0\StringsAndArrays.deps.json
+D:\Programmeerimise algkursus (RKE132)\StringsAndArrays\StringsAndArrays\bin\Debug\net5.0\StringsAndArrays.runtimeconfig.json
+D:\Programmeerimise algkursus (RKE132)\StringsAndArrays\StringsAndArrays\bin\Debug\net5.0\StringsAndArrays.runtimeconfig.dev.json
+D:\Programmeerimise algkursus (RKE132)\StringsAndArrays\StringsAndArrays\bin\Debug\net5.0\StringsAndArrays.dll
+D:\Programmeerimise algkursus (RKE132)\StringsAndArrays\StringsAndArrays\bin\Debug\net5.0\ref\StringsAndArrays.dll
+D:\Programmeerimise algkursus (RKE132)\StringsAndArrays\StringsAndArrays\bin\Debug\net5.0\StringsAndArrays.pdb
+D:\Programmeerimise algkursus (RKE132)\StringsAndArrays\StringsAndArrays\obj\Debug\net5.0\StringsAndArrays.csproj.AssemblyReference.cache
+D:\Programmeerimise algkursus (RKE132)\StringsAndArrays\StringsAndArrays\obj\Debug\net5.0\StringsAndArrays.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programmeerimise algkursus (RKE132)\StringsAndArrays\StringsAndArrays\obj\Debug\net5.0\StringsAndArrays.AssemblyInfoInputs.cache
+D:\Programmeerimise algkursus (RKE132)\StringsAndArrays\StringsAndArrays\obj\Debug\net5.0\StringsAndArrays.AssemblyInfo.cs
+D:\Programmeerimise algkursus (RKE132)\StringsAndArrays\StringsAndArrays\obj\Debug\net5.0\StringsAndArrays.csproj.CoreCompileInputs.cache
+D:\Programmeerimise algkursus (RKE132)\StringsAndArrays\StringsAndArrays\obj\Debug\net5.0\StringsAndArrays.dll
+D:\Programmeerimise algkursus (RKE132)\StringsAndArrays\StringsAndArrays\obj\Debug\net5.0\ref\StringsAndArrays.dll
+D:\Programmeerimise algkursus (RKE132)\StringsAndArrays\StringsAndArrays\obj\Debug\net5.0\StringsAndArrays.pdb
+D:\Programmeerimise algkursus (RKE132)\StringsAndArrays\StringsAndArrays\obj\Debug\net5.0\StringsAndArrays.genruntimeconfig.cache

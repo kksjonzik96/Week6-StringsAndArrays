@@ -1,0 +1,15 @@
+D:\Programmeerimise algkursus (RKE132)\StringsAndArrays\DontPanic\bin\Debug\net5.0\DontPanic.exe
+D:\Programmeerimise algkursus (RKE132)\StringsAndArrays\DontPanic\bin\Debug\net5.0\DontPanic.deps.json
+D:\Programmeerimise algkursus (RKE132)\StringsAndArrays\DontPanic\bin\Debug\net5.0\DontPanic.runtimeconfig.json
+D:\Programmeerimise algkursus (RKE132)\StringsAndArrays\DontPanic\bin\Debug\net5.0\DontPanic.runtimeconfig.dev.json
+D:\Programmeerimise algkursus (RKE132)\StringsAndArrays\DontPanic\bin\Debug\net5.0\DontPanic.dll
+D:\Programmeerimise algkursus (RKE132)\StringsAndArrays\DontPanic\bin\Debug\net5.0\ref\DontPanic.dll
+D:\Programmeerimise algkursus (RKE132)\StringsAndArrays\DontPanic\bin\Debug\net5.0\DontPanic.pdb
+D:\Programmeerimise algkursus (RKE132)\StringsAndArrays\DontPanic\obj\Debug\net5.0\DontPanic.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programmeerimise algkursus (RKE132)\StringsAndArrays\DontPanic\obj\Debug\net5.0\DontPanic.AssemblyInfoInputs.cache
+D:\Programmeerimise algkursus (RKE132)\StringsAndArrays\DontPanic\obj\Debug\net5.0\DontPanic.AssemblyInfo.cs
+D:\Programmeerimise algkursus (RKE132)\StringsAndArrays\DontPanic\obj\Debug\net5.0\DontPanic.csproj.CoreCompileInputs.cache
+D:\Programmeerimise algkursus (RKE132)\StringsAndArrays\DontPanic\obj\Debug\net5.0\DontPanic.dll
+D:\Programmeerimise algkursus (RKE132)\StringsAndArrays\DontPanic\obj\Debug\net5.0\ref\DontPanic.dll
+D:\Programmeerimise algkursus (RKE132)\StringsAndArrays\DontPanic\obj\Debug\net5.0\DontPanic.pdb
+D:\Programmeerimise algkursus (RKE132)\StringsAndArrays\DontPanic\obj\Debug\net5.0\DontPanic.genruntimeconfig.cache
